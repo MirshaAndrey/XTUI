@@ -18,6 +18,12 @@ A beautiful terminal system monitor in Go. CPU, RAM, swap, network, disks, proce
 - **Splash screen** with ASCII logo
 - **Adaptive layout** based on terminal width
 
+  <img width="1097" height="603" alt="{2E81E16F-B931-4FF5-8798-4543EF839B12}" src="https://github.com/user-attachments/assets/4803e341-16d7-4f4e-8c4e-c835238d1799" />
+  <img width="1043" height="693" alt="{6D3117F2-B11B-449F-B7F0-00EE1091D542}" src="https://github.com/user-attachments/assets/6a4b3869-0619-4a45-8fbf-e9167e0517d5" />
+  <img width="854" height="286" alt="{14D5101D-CBEC-47DE-8060-AC10F75961E3}" src="https://github.com/user-attachments/assets/73befb47-9b84-415b-ae08-db528cf6a327" />
+  <img width="964" height="432" alt="{93B2D719-C681-4E98-AB45-B40345A55878}" src="https://github.com/user-attachments/assets/5ce8bdcb-6261-4843-a85f-6f418262819f" />
+
+
 ## Build & run
 
 ```bash
